@@ -1,0 +1,2 @@
+class BusinessInformation < ApplicationRecord
+end
