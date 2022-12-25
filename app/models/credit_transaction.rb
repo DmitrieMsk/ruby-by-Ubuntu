@@ -1,0 +1,2 @@
+class CreditTransaction < ApplicationRecord
+end
